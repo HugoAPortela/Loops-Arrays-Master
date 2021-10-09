@@ -142,7 +142,4 @@ Se possível:
 🐛 Encontrar e relatar issues
 
 
-------------
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 
